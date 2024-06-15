@@ -1,0 +1,2 @@
+# linux
+les and seminar
